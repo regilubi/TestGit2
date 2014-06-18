@@ -21,6 +21,8 @@ public class Test {
 			System.out.println(personne.getListpersonne().get(i).toString());
 		}
 		
+		System.out.println("Fin ");
+		
 	}
 
 }
