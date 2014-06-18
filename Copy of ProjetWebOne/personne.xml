@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<personne>
+		<nom>nom1</nom>
+		<prenom>prenom1</prenom>
+		<date>01/01/2000</date>
+	</personne>
+	<personne>
+		<nom>nom2</nom>
+		<prenom>prenom2</prenom>
+		<date>01/01/2000</date>
+	</personne>
+	<personne>
+		<nom>nom3</nom>
+		<prenom>prenom3</prenom>
+		<date>01/01/2000</date>
+	</personne>
+	<personne>
+		<nom>nom4</nom>
+		<prenom>prenom4</prenom>
+		<date>01/01/2000</date>
+	</personne>
+	<personne>
+		<nom>nom5</nom>
+		<prenom>prenom5</prenom>
+		<date>01/01/2000</date>
+	</personne>
+	<personne>
+		<nom>nom6</nom>
+		<prenom>prenom6</prenom>
+		<date>01/01/2000</date>
+	</personne>
+	<personne>
+		<nom>nom7</nom>
+		<prenom>prenom7</prenom>
+		<date>01/01/2000</date>
+	</personne>
+</data>
